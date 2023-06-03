@@ -1,5 +1,5 @@
 # tinyid
-Golang tiny id generator
+Tiny id generator written in Go.
 
 ## Installation
 
